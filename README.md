@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ZHYI-source
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning node.js/mysql
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.zhouyi.run
 
 <!---
