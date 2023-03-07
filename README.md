@@ -48,7 +48,7 @@
  
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+Please click the link in the description to find me
 
 <a href="www.zhouyi.run" target="_blank">My Homepage</a>
 
