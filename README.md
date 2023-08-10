@@ -42,7 +42,7 @@
 <p dir="auto"  style="display: flex;justify-content: space-between;align-items: center" >
   <img  style=" display:inline-block" src="https://github-readme-stats.vercel.app/api?username=ZHYI-source&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
           alt="vuejs" />
-  <img  style="display:inline-block " width="200"  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" style="max-width: 100%; display: inline-block;">
+  
 </p>
 
  
@@ -50,7 +50,8 @@
 
 Please click the link in the description to find me
 
-<a href="www.zhouyi.run" target="_blank">My Homepage</a>
+
+[👉 My Homepage](http://www.zhouyi.run/)
 
 <!---
 ZHYI-source/ZHYI-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
