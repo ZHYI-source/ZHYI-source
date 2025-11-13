@@ -1,10 +1,11 @@
  <p align="center">
-   <img align="center" src="https://github.com/ZHYI-source/ZHYI-source/assets/59498872/5f4a3557-4663-4778-b9df-1789b44693ec" alt="Logo" width="150" height="150">
+   <img align="center" src="https://github.com/user-attachments/assets/61577286-59e9-4ffb-8d1a-8841df3b7953" alt="Logo" width="150" height="150">
    </p>
+  
 <h3 align="center">" Hi ! 👋 "</h3>
 
   <p align="center">
-    热爱编程代码，坚信每一步都是奇迹，每一天都是新的起点。
+    热爱编程代码，坚信每一步都是奇迹，每一天都是新的起点。专注开发话费电费缴费系统
    </p>
      <p align="center">
       <img align="center" src="https://img.shields.io/badge/常用技术-red">
